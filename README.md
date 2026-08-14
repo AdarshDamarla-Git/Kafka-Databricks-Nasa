@@ -296,6 +296,3 @@ LIMIT 50;
 
 **Adarsh Damarla** · [GitHub](https://github.com/AdarshDamarla-Git)
 
-## License
-
-No project-level license is currently included. Add one before permitting reuse or redistribution.
